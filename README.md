@@ -43,24 +43,31 @@ A basic e-commerce website built with **React.js** and **Node.js** that allows u
    cd e-commerce-website
    
 3. **Install dependencies for the backend:**:
-   Navigate to the backend folder:
-   ```bash
-   cd backend
+   * Navigate to the backend folder:
+      ```bash
+      cd backend
    
-   Install the backend dependencies:
-   ```bash
-   npm install
+   * Install the backend dependencies:
+      ```bash
+      npm install
 
 5. **Install dependencies for the frontend:**:
-   Navigate to the frontend folder: cd ../frontend
-   Install the frontend dependencies: npm install
+   * Navigate to the frontend folder:
+     ```bash
+     cd ../frontend
+     
+   * Install the frontend dependencies:
+     ```bash
+     npm install
 
 6. **Run the backend and frontend:**:
-   Start the backend server:
-   cd backend
-   npm start
+   * Start the backend server:
+     ```bash
+      cd backend
+      npm start
 
-   Start the frontend application:
-   cd ../frontend
-   npm start
+   * Start the frontend application:
+     ```bash
+      cd ../frontend
+      npm start
 
